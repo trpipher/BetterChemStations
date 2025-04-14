@@ -2,7 +2,7 @@
 
 A MelonLoader mod for Schedule I that automatically filters Chemistry Station slots based on the selected recipe.
 
-![Preview](https://i.imgur.com/YourImageHere.png)
+![logo](icon.png)
 
 ## Features
 
