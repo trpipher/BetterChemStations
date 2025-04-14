@@ -12,7 +12,7 @@ using System;
 using UnityEngine;
 using System.Collections;
 
-[assembly: MelonInfo(typeof(BetterChemStations.Core), "BetterChemStations", "1.1.0", "trpipher", null)]
+[assembly: MelonInfo(typeof(BetterChemStations.Core), "BetterChemStations", "1.2.0", "trpipher", null)]
 [assembly: MelonGame("TVGS", "Schedule I")]
 
 namespace BetterChemStations
