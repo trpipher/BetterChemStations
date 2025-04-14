@@ -1,0 +1,7 @@
+{
+  "name": "BetterChemStations",
+  "version_number": "1.2.0",
+  "website_url": "https://github.com/trpipher/BetterChemStations",
+  "description": "Automatically filters Chemistry Station slots based on selected recipes. Slots accept the correct ingredients of any quality level, making chemistry tasks quicker and less error-prone. Works when loading stations or changing recipes.",
+  "dependencies": ["LavaGang-MelonLoader-0.5.7"]
+}
